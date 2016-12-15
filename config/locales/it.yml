@@ -1,0 +1,4 @@
+it:
+      open_issue_status: Stato automatico per le Segnalazioni
+      affecting_trackers: Tracker interessati
+      auto_open_issue_statuses_only_when_in_affecting_trackers: Apre automaticamente le segnalazioni son quando sono all’interno dei tracker interessati
